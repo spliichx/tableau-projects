@@ -1,50 +1,86 @@
-# Electric Vehicle Adoption & Market Insights Dashboard (2010 Onwards)
+# Tableau Projects Portfolio
 
-This project provides an interactive data visualization dashboard to analyze electric vehicle (EV) adoption trends in the United States from 2010 onwards. It explores growth patterns, geographical distribution, market dominance, and the impact of incentive eligibility.
+Welcome to my curated portfolio of Tableau dashboards—built to demonstrate business intelligence, data storytelling, and dashboard design skills across a range of domains including **Sales**, **Human Resources**, and **Electric Vehicles**.
 
-## Problem Statement
-
-To support data-driven decisions in the electric vehicle sector, this project tracks and visualizes key metrics reflecting adoption trends, market distribution, and policy influence. The following dimensions are analyzed:
-
-1. **Total Vehicles by Model Year**  
-   - *Visualization:* Line/Area Chart  
-   - *Goal:* Track the growth of EVs over time starting from 2010 to identify adoption patterns.
-
-2. **Total Vehicles by State**  
-   - *Visualization:* Map Chart  
-   - *Goal:* Understand the geographical spread of EV adoption across U.S. states.
-
-3. **Top 10 Total Vehicles by Make**  
-   - *Visualization:* Bar Chart  
-   - *Goal:* Identify the most dominant EV manufacturers based on total vehicle count.
-
-4. **Total Vehicles by CAFV Eligibility**  
-   - *Visualization:* Pie or Donut Chart  
-   - *Goal:* Show the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives.
-
-5. **Top 10 Total Vehicles by Model**  
-   - *Visualization:* Tree Map  
-   - *Goal:* Highlight the most popular EV models in the market.
+Each project simulates real-world business use cases, combining interactive visuals, dynamic filters, and actionable insights to support decision-making.
 
 ---
 
-## Project Structure
-```
-│
-├── dashboard/ # Raw and cleaned datasets
-├── data/ # Exported charts and graphics
-├── docs/
-├── visual/
-└── README.md
-```
+## 🧩 Repository Structure
 
-## Tools & Technologies
+---
 
-- Tableau 
-- Git & GitHub
-- Data Source: (https://topmate.io)
+## 🔍 Featured Projects
 
+### 📈 [Sales Performance Dashboard](projects/Sales%20Performance/README.md)
 
+> **Use Case**: Executive-level insight into sales trends, product performance, and customer metrics.
 
+- Year-over-year KPI comparison
+- Product subcategory breakdown
+- Weekly sales/profit analysis
+- Top 10 customers by profit
+- Dynamic filters by product & geography
 
+_Preview_:  
+![Sales Dashboard](visual/Sales%20Dashboard.png)
 
+---
+
+### 🚗 [Electric Vehicle Performance Dashboard](projects/EV%20Perormance%20Dashboard/README.md)
+
+> **Use Case**: Government or private sector analysis of EV adoption trends across regions and manufacturers.
+
+- Filter by city, make, model, and electric range
+- Identify regional EV adoption patterns
+- Compare vehicle types and fuel technology
+
+📄 [View Problem Statement (PDF)](projects/EV%20Perormance%20Dashboard/docs/Problem%20Statement.pdf)  
+📸 _Preview_:  
+![EV Dashboard](visual/Eelectric%20Vehicle%20Dashboard.png)
+
+---
+
+### 👩‍💼 [HR Analytics Dashboard](projects/HR%20Dashboard)
+
+> **Use Case**: HR leadership view of workforce distribution, hiring trends, and attrition metrics.
+
+- _(Coming Soon)_
+
+📸 _Preview (placeholder)_  
+_(Visual to be added upon completion)_
+
+---
+
+## Key Skills Demonstrated
+
+- **Data Visualization**: Clean, interactive Tableau dashboards with advanced chart types.
+- **Business Storytelling**: Focus on actionable insights aligned with real-world scenarios.
+- **Dashboard Interactivity**: Use of filters, parameters, and highlights for user-driven analysis.
+- **Data Preparation**: ETL and cleaning using built-in Tableau tools and external tools as needed.
+- **Stakeholder Communication**: Problem-first approach to visual design and documentation.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Tableau Desktop**
+- **Data Sources**: CSV, government open data
+- **Other Tools**: Figma (for design sketching), Excel, Notion (for case documentation)
+
+---
+
+## 📬 About Me
+
+**Chukwudi Aboaja**  
+Business Intelligence Analyst | Data Storyteller  
+🎯 Helping businesses turn data into clarity, direction, and impact.  
+📫 [LinkedIn](https://www.linkedin.com/in/chukwudi-aboaja/) • [Email](chukwudi.aboaja@gmail.com)
+
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---

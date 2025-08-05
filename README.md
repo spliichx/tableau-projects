@@ -28,7 +28,7 @@ To support data-driven decisions in the electric vehicle sector, this project tr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 │
 ├── dashboard/ # Raw and cleaned datasets
@@ -38,10 +38,13 @@ To support data-driven decisions in the electric vehicle sector, this project tr
 └── README.md
 ```
 
-## 🚀 Tools & Technologies
+## Tools & Technologies
 
 - Tableau 
 - Git & GitHub
 - Data Source: (https://topmate.io)
+
+
+
 
 

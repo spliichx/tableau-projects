@@ -48,7 +48,7 @@ _Preview_:
 - _(Coming Soon)_
 
 📸 _Preview_  
-![HR Dashboard Preview](projects/HR%20Dashboard/img/preview.png)
+![HR Dashboard Preview](projects/HR%20Dashboard/img/HR Summary.png)
 
 
 ---

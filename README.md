@@ -45,16 +45,15 @@ _Preview_:
 
 > **Use Case**: HR leadership view of workforce distribution, hiring trends, and attrition metrics.
 
-
-- Filter employee records by city, department, gender, education, or performance  
-- Monitor hiring and termination trends over time  
-- Compare workforce distribution across HQ (New York) and branch locations  
-- Analyze salary variations by age, gender, education, and job role  
-- Explore demographic trends like age groups and education levels  
-- Identify patterns between educational background and performance ratings  
+- Filter employee records by city, department, gender, education, or performance
+- Monitor hiring and termination trends over time
+- Compare workforce distribution across HQ (New York) and branch locations
+- Analyze salary variations by age, gender, education, and job role
+- Explore demographic trends like age groups and education levels
+- Identify patterns between educational background and performance ratings
 
 📸 _Preview_  
-![HR Dashboard](projects/HR%20Dashboard/img/img/HR%20Summary.png)
+![HR Dashboard](visual/HR%20Summary.png)
 
 ---
 

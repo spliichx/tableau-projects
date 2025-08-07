@@ -6,14 +6,14 @@ This project involves the development of two interactive Tableau dashboards desi
 
 ---
 
-## 🚀 Dashboards
+## Dashboards
 
 ### 1. Sales Dashboard
 
-#### 🎯 Purpose
+#### Purpose
 To provide a high-level view of key sales metrics and trends, enabling year-over-year performance analysis and insight into monthly and weekly sales patterns.
 
-#### ✅ Key Features
+#### Key Features
 
 - **KPI Overview**
   - Total Sales, Profit, and Quantity (Current vs. Previous Year)

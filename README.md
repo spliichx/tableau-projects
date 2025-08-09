@@ -37,7 +37,7 @@ _Preview_:
 
 📄 [View Problem Statement (PDF)](projects/EV%20Perormance%20Dashboard/docs/Problem%20Statement.pdf)  
 📸 _Preview_:  
-![EV Dashboard](visual/Eelectric%20Vehicle%20Analysis.png)
+![EV Dashboard](visual/Electric%20Vehicle%20Analysis.png)
 
 ---
 

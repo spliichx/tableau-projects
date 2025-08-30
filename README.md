@@ -6,11 +6,11 @@ Each project simulates real-world business use cases, combining interactive visu
 
 ---
 
-## 🧩 Repository Structure
+## Repo Structure
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 ### 📈 [Sales Performance Dashboard](projects/Sales%20Performance/README.md)
 
@@ -75,7 +75,7 @@ _Preview_:
 
 ---
 
-## 📬 About Me
+## About Me
 
 **Chukwudi Aboaja**  
 Business Intelligence Analyst | Data Storyteller  
@@ -84,7 +84,7 @@ Business Intelligence Analyst | Data Storyteller
 
 ---
 
-## 📄 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).
 

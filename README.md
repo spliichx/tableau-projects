@@ -2,6 +2,8 @@
 
 Welcome to my curated portfolio of Tableau dashboards—built to demonstrate business intelligence, data storytelling, and dashboard design skills across a range of domains including **Sales**, **Human Resources**, and **Electric Vehicles**.
 
+I would like to thank [Baraa Khatid Salkini]([https://www.linkedin.com/in/baraa-profile](https://www.youtube.com/@DataWithBaraa)) for inspiring the design and approach of these dashboards. Your guidance and creativity have been invaluable in shaping this portfolio.
+
 Each project simulates real-world business use cases, combining interactive visuals, dynamic filters, and actionable insights to support decision-making.
 
 ---
